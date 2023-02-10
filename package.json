@@ -41,14 +41,26 @@
     "@rollup/pluginutils": "4.1.0",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
     "@vitejs/plugin-react": "^2.2.0",
     "async": "3.2.2",
+    "eslint": "^8.33.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "glob": "7.2.3",
     "mkdirp": "1.0.4",
+    "prettier": "^2.8.4",
     "rollup-plugin-brotli": "3.1.0",
     "strip-css-comments": "5.0.0",
     "transform-ast": "2.4.4",
-    "typescript": "4.9.3",
+    "typescript": "^4.9.3",
     "vite": "3.2.5",
     "vite-plugin-checker": "0.5.4",
     "workbox-build": "6.5.4",
@@ -136,6 +148,6 @@
       "workbox-core": "6.5.4",
       "workbox-precaching": "6.5.4"
     },
-    "hash": "750f700ed87c746ded334470221bb1ec431310dedbf0bc2157dbfe0a46a87de9"
+    "hash": "2d6f0b1ce4b65f11144c66cc23e2fd93325320f77c11558964f963ea9ea5bc6a"
   }
 }
